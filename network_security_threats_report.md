@@ -463,5 +463,7 @@ As threat actors become more sophisticated, security professionals must maintain
 8. Microsoft Security Response Center Documentation
 
 ---
-
+Document Version: 1.0
+Last Updated: 2026
+Classification: Educational Resource
 
