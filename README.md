@@ -265,7 +265,7 @@ This research report was developed as part of the **Oasis Infobyte Security Anal
 
 - **Format**: Markdown (.md)
 - **Version**: 1.0
-- **Last Updated**: 2024
+- **Last Updated**: 2026
 - **Classification**: Educational Resource
 - **Content Length**: Comprehensive (5000+ words)
 - **Sections**: 3 Major Threat Categories + Comparative Analysis
